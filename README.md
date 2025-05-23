@@ -90,15 +90,15 @@ The custom arm design used a **C-beam profile with trusses**:
 
 ## 📂 Repository Contents
 
-- **CAD/** – All SolidWorks models with accurate weight/inertia  
-- **STLs/** – Printable files for all drone parts + pre-arranged Prusa slicer project  
-- **Build Book.pdf** – Step-by-step construction and setup guide  
-- **BOM.xlsx** – Full bill of materials with costs and part links  
+- **Drone CAD/** – All SolidWorks models with accurate weight/inertia  
+- **STL_and_Prusa_Files/** – Printable files for all drone parts + pre-arranged Prusa slicer project  
+- **Build_Book.pdf** – Step-by-step construction and setup guide  
+- **FireFlighters_Drone_BOM.xlsx** – Full bill of materials with costs and part links  
 - **ManualFlightCode/** – Arduino code for manual RC flight  
-- **HandCarryAutonomousCode/** – Contains full autonomy logic (not flight-ready)  
-- **KalmanFilterSim.m** – MATLAB simulation of the onboard Kalman Filter  
-- **ThermalCamSim.py** – Python simulation of the thermal camera behavior  
-- **FinalReport.pdf** – Technical report covering the full design, testing, and conclusions  
+- **HandCarryCode/** – Contains full autonomy logic (not flight-ready)  
+- **Matlab_Kalman_Filter_Prototype.m** – MATLAB simulation of the onboard Kalman Filter  
+- **Thermal_Sensor_Simulation.py** – Python simulation of the thermal camera behavior  
+- **Final_Report.pdf** – Technical report covering the full design, testing, and conclusions  
 
 ---
 
