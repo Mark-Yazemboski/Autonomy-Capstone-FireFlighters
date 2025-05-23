@@ -136,4 +136,4 @@ Thank you!
 
 ## 📄 Final Report
 
-For complete technical details on design, components, control logic, testing, and results, see the [**Final Report**](FinalReport.pdf).
+For complete technical details on design, components, control logic, testing, and results, see the [**Final Report**](Final_Report.pdf).
